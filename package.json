@@ -1,0 +1,27 @@
+{
+  "name": "test-daxx",
+  "version": "1.0.0",
+  "description": "test daxx coin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitOodles/testDaxxCoin.git"
+  },
+  "keywords": [
+    "test",
+    "daxxcoin"
+  ],
+  "author": "amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitOodles/testDaxxCoin/issues"
+  },
+  "homepage": "https://github.com/amitOodles/testDaxxCoin#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "web3": "^0.18.2"
+  }
+}
